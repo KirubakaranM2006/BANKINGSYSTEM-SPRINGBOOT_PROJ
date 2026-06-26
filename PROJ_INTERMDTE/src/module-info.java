@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module PROJ_INTERMDTE {
-}
